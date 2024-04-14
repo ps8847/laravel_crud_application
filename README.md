@@ -5,7 +5,7 @@
 The Laravel Employee Management System is a CRUD (Create, Read, Update, Delete) application built using the Laravel framework. It provides functionalities for managing employee records within an organization.
 
 <div style="padding: 10px;">
-    <img src="/dd/laravel_crud.png" alt="laravelcurd" style="width: 80%; padding: 10px;">
+    <img src="/laravel_crud.png" alt="laravelcurd" style="width: 80%; padding: 10px;">
 </div>
 
 ## Features
